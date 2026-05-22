@@ -1,7 +1,7 @@
 # Portal Card Scanner 🃏✨
 
 <p align="center">
-  <img src="copilot_image_1778277061715.png" alt="Portal Card Scanner" width="100%" max-width="500px" style="border-radius: 12px;">
+  <img src="copilot_image_1778277061712.jpeg" alt="Portal Card Scanner" width="100%" max-width="500px" style="border-radius: 12px;">
 </p>
 
 ---
